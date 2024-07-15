@@ -1,5 +1,0 @@
-[functions]
-# Set environment variables for your function
-functions = "api"
-# Set function memory size (optional)
-memory = 1024
